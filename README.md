@@ -8,11 +8,28 @@ There is no lint, tests or good practices.
 
 Initiate react-native local-cli:
 
-`npm start`
+```sh
+$ npm install
+$ npm start
+```
 
 Run on iOS simulator:
 
-`react-native run-ios`
+```sh
+$ react-native run-ios
+```
+
+## API
+
+It's a very (really) simple API. Only an express server delivering a JSON object with some delay.
+
+For running it:
+
+```sh
+$ cd api
+$ npm install
+$ npm start
+```
 
 ## License
 
