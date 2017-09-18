@@ -1,0 +1,3 @@
+rootProject.name = 'Tirz2'
+
+include ':app'
