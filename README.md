@@ -1,6 +1,6 @@
 # noticias-do-front-ep02-app
 
-This is just a repository to store the results of the code used on an episode of my Youtube channel.
+This is just a repository to store the results of the code used on an [episode](https://www.youtube.com/watch?v=i8qxCGGB_lI) of my Youtube channel.
 
 There is no lint, tests or good practices.
 
